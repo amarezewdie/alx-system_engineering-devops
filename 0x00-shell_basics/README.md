@@ -1,1 +1,1 @@
-this is resd me in the second directory
+this is read me file 
